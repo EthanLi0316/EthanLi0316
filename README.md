@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 
 ### Enchanted Particles
 - **Technologies**: Python, Intel Quartus, Verilog, FPGA
-- **Description**: Developed an animation of moving cubes inspired by the classic DVD logo. Enhanced low-level programming skills by using Python, Verilog, and Intel Quartus on the Ultrix platform by Ross Video.
+- **Description**: Developed an animation of moving cubes inspired by the classic DVD logo. Improved low-level programming skills by using Python, Verilog, and Intel Quartus on the Ultrix platform by Ross Video.
 
 ### Recipe Generator with Gemini
 - **Technologies**: React, Google Gemini API, CSS
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 
 ### Python Web Crawler
 - **Technologies**: Python
-- **Description**: Engineered a Python-based web crawler focused on minimizing runtime complexity, leveraging os and Json modules for efficient data handling and reduced I/O operations.
+- **Description**: Engineered a Python-based web crawler focused on minimizing runtime complexity, using os and Json modules for efficient data handling and reduced I/O operations.
 
 ### Java Web Crawler
 - **Technologies**: Java, JavaFX
