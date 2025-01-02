@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 ## 🎓 Education
 
 - **Carleton University**: Bachelor of Computer Science Honours CO-OP (Present - April 2028)
-  - Major CGPA: 10/12 (A-), Overall CGPA: 10.33/12 (A-)
-
-## 💼 Work Experience
-
-- **McDonald's / Crew Member**: Engaged in cooking and preparation tasks, learned skills in collaboration and time management (2022 – 2023).
 
 ## 🌐 Connect with Me
 
