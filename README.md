@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 
 ## 🎓 Education
 
-- **Carleton University**: Bachelor of Computer Science Honours CO-OP (Present - April 2028)
-- **CO-OP Availability**: 16/ 12/ 8/ 4 months
+- **Carleton University**: **Bachelor of Computer Science Honours CO-OP (Present - April 2028)**
+- **CO-OP Availability**: **16/ 12/ 8/ 4** months
 
 ## 🌐 Connect with Me
 
