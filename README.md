@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 
 ## 🌐 Connect with Me
 
-- [Personal Page](#)
-- [LinkedIn](#)
-- [Devpost](#)
+- [Personal Page](https://ethanli-personal-website.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/ethan-li-68a8151a8/)
+- [Devpost](https://devpost.com/lijiayi0316)
 - Email: ethanli5@cmail.carleton.ca
