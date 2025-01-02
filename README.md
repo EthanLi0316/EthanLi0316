@@ -13,7 +13,3 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 - [LinkedIn](#)
 - [Devpost](#)
 - Email: ethanli5@cmail.carleton.ca
-
-## 📫 How to Reach Me
-
-Feel free to reach out via email or connect with me on LinkedIn. I'm always open to discussions. Thank you for visiting my profile! Have a great day! 😊
