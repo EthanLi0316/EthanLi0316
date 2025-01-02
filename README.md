@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Carle
 Feel free to reach out via email or connect with me on LinkedIn. I'm always open to discussing new projects, collaborations, or opportunities to learn and grow.
 
 Thank you for visiting my profile! Have a great day! 😊
----
+--
 
 ## 🚀 Projects
 
